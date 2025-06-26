@@ -41,8 +41,3 @@ Edit
 6. Check Previous Bookings
 7. Login
 8. Exit
-   
-🛠 Built With
-1.Python 3.x
-2.pickle module for data persistence
-3.Object-Oriented Programming principles
