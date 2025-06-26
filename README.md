@@ -42,7 +42,7 @@ Edit
 7. Login
 8. Exit
    
-🛠 Built With----
-Python 3.x
-pickle module for data persistence
-Object-Oriented Programming principles
+🛠 Built With
+1.Python 3.x
+2.pickle module for data persistence
+3.Object-Oriented Programming principles
