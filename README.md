@@ -42,11 +42,7 @@ Edit
 7. Login
 8. Exit
    
-🛠 Built With
+🛠 Built With----
 Python 3.x
 pickle module for data persistence
 Object-Oriented Programming principles
-
-👤 Author
-Tharun Lokesh Uggina.
-Python Developer
