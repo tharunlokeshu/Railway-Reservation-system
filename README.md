@@ -1,20 +1,21 @@
-🚆 Railway Reservation System (Console-based Python App) A simple console-based Railway Reservation System developed in Python. It supports ticket booking, cancellation, user account management, seat availability checking, and more – all using basic file persistence and object-oriented programming.
+# 🚆 Railway Reservation System (Console-based Python App)
 
-🔧 Features ✅ Book tickets in different coaches (1AC, 2AC, SL) ✅ Cancel booked tickets using PNR ✅ Check seat availability by source and destination ✅ Check ticket status using PNR ✅ User login and account creation ✅ View previous bookings ✅ Persistent storage using pickle
+A simple, console-based **Railway Reservation System** built using Python.  
+The application supports ticket booking, cancellation, user account management, seat availability checking, and more — all using basic **file persistence** and **object-oriented programming**.
 
-📂 Project Structure bash Copy Edit railway_reservation.py # Main application script data.pkl # Automatically generated file to store users, trains, and tickets
+---
 
-▶️ How to Run Clone or Download the project. Open the terminal or command prompt in the project folder.
+## 🔧 Features
 
-Run the script: bash Copy Edit python railway_reservation.py Make sure you have Python 3 installed.
+- ✅ Book tickets in multiple coach types: `1AC`, `2AC`, `Sleeper`
+- ✅ Cancel booked tickets using **PNR number**
+- ✅ Check seat availability between source and destination
+- ✅ View ticket status by **PNR**
+- ✅ User account creation and login system
+- ✅ View past bookings
+- ✅ Persistent storage using Python's `pickle` module
 
-📸 Sample Menu markdown Copy Edit --- Railway Reservation Menu ---
+---
 
-Book Ticket
-Cancel Ticket
-Check PNR
-Check Seat Availability
-Create New Account
-Check Previous Bookings
-Login
-Exit
+## 📂 Project Structure
+
